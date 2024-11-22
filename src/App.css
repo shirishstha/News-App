@@ -1,0 +1,12 @@
+.newsimg{
+  width:100%;
+  height:180px ;
+}
+
+input.form-control.bg-dark::placeholder {
+  color: grey;  
+}
+
+input.form-control.bg-light::placeholder {
+  color: grey;  
+}
